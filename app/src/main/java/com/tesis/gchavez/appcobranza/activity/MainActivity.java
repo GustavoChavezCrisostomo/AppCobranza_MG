@@ -43,5 +43,7 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(this, "Completar los campos requeridos", Toast.LENGTH_SHORT).show();
             return;
         }
+
+
     }
 }
