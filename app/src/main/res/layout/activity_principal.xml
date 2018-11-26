@@ -31,7 +31,7 @@
             android:layout_weight="1"
             android:background="@android:color/transparent"
             android:onClick="callPerfil"
-            android:src="@drawable/iconologro" />
+            android:src="@drawable/iconperfil" />
 
     </LinearLayout>
 
@@ -64,7 +64,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="65dp"
         android:orientation="horizontal">
 
         <ImageButton
@@ -74,7 +74,7 @@
             android:layout_weight="1"
             android:background="@android:color/transparent"
             android:onClick="callCliente"
-            android:src="@drawable/iconologro" />
+            android:src="@drawable/iconclient" />
 
         <ImageButton
             android:id="@+id/btn_ruta"
@@ -83,7 +83,7 @@
             android:layout_weight="1"
             android:background="@android:color/transparent"
             android:onClick="callRuta"
-            android:src="@drawable/iconologro" />
+            android:src="@drawable/iconmap" />
     </LinearLayout>
 
     <LinearLayout
